@@ -1,11 +1,3 @@
-// export default function ServicesLayout({
-//     children,
-//   }: {
-//     children: React.ReactNode;
-//   }) {
-//     return <>{children}</>;
-//   }
-
 import { Metadata } from "next";
 import { SERVICES_SECTION, SITE_NAME, BASE_URL } from "@/constants/site";
 import { createMetadata } from "@/utils/metadata";
